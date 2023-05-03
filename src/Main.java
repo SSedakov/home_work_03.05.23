@@ -30,7 +30,7 @@ public class Main {
     }
     public static void getMonthValues(Month[] months){
         for (Month currentMonth:months) {
-            System.out.println("Месяц " + currentMonth.numberOfMonth + "-" + currentMonth.name() + ",");
+            System.out.println("******" "Месяц " + currentMonth.numberOfMonth + "-" + currentMonth.name() + "," + "******");
         }
 
 
